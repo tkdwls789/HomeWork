@@ -6,7 +6,7 @@
 
 void ToUpper(const char* _Left, char* _Right)
 {
-	int iCount = 0;
+	
 	for (int i = 0; i < 100; i += 1)
 	{
 		if ('a' <= _Left[i] && 'z' >= _Left[i])

@@ -1,10 +1,9 @@
 #include <iostream>
 
-using namespace std;
 void Rervers(const char* _Sorce, char* _Result)
 {
 
-	char iTemp[100] = {};
+	char Temp[100] = {};
 
 
 	int Stringlen = 0;

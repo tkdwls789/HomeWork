@@ -1,6 +1,5 @@
 #include <iostream>
 
-
 int ToInt(const char* _Left)
 {
 	int Stringlen = 0;	// 문자열 길이 출력
